@@ -6,7 +6,7 @@ volume: '217'
 year: '2023'
 start: 2023-07-10
 end: 2023-07-13
-published: 2023-07-10
+published: 2023-07-05
 sections:
 - name: Preface
   title: Preface
@@ -42,7 +42,7 @@ description: |
   Proceedings of 16th edition of the International Conference on Grammatical Inference
     Held in Rabat, Morocco on 10-13 July 2023
 
-  Published as Volume 217 by the Proceedings of Machine Learning Research on 10 July 2023.
+  Published as Volume 217 by the Proceedings of Machine Learning Research on 05 July 2023.
 
   Volume Edited by:
     François Coste

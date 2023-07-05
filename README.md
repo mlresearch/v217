@@ -12,7 +12,7 @@ For details of what is required to submit a proceedings please check https://pro
 
 
 
-Published as Volume 217 by the Proceedings of Machine Learning Research on 10 July 2023.
+Published as Volume 217 by the Proceedings of Machine Learning Research on 05 July 2023.
 
 Volume Edited by:
   * François Coste
