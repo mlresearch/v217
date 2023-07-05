@@ -1,0 +1,99 @@
+---
+booktitle: Proceedings of 16th edition of the International Conference on Grammatical
+  Inference
+shortname: ICGI
+volume: '217'
+year: '2023'
+start: 2023-07-10
+end: 2023-07-13
+published: 2023-07-10
+sections:
+- name: Preface
+  title: Preface
+- name: Distinguished lecture
+  title: Distinguished lecture
+- name: ICGI Angluin tutorial session
+  title: ICGI Angluin tutorial session
+- name: Invited talks
+  title: Invited talks
+- name: Regular papers
+  title: Regular papers
+- name: Abstracts on work in progress
+  title: Abstracts on work in progress
+- name: Taysir competition
+  title: Taysir competition
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: ICGI2023
+month: 0
+cycles: false
+bibtex_editor: Coste, Fran\c{c}ois and Ouardi, Faissal and Rabusseau, Guillaume
+editor:
+- given: François
+  family: Coste
+- given: Faissal
+  family: Ouardi
+- given: Guillaume
+  family: Rabusseau
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of 16th edition of the International Conference on Grammatical Inference
+    Held in Rabat, Morocco on 10-13 July 2023
+
+  Published as Volume 217 by the Proceedings of Machine Learning Research on 10 July 2023.
+
+  Volume Edited by:
+    François Coste
+    Faissal Ouardi
+    Guillaume Rabusseau
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 10--13 Jul
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v217"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v217
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v217
+email: ''
+conference:
+  name: International Conference on Grammatical Inference
+  url: http://www.fsr.ac.ma/icgi2023/
+  location: Rabat, Morocco
+  dates:
+  - 2023-07-10
+  - 2023-07-11
+  - 2023-07-12
+  - 2023-07-13
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v217/icgi23.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v217/icgi23.bib
